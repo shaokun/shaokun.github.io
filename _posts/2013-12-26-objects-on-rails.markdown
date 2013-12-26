@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "编程随想：Objects on Rails"
+cover:  cover.jpg
 date:   2013-12-26 16:05:26
 categories: 编程随想
 ---

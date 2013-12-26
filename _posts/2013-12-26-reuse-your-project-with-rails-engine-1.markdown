@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Reuse your project with rails engine - part 1"
+cover:  cover.jpg
 date:   2013-12-26 17:28:00
-categories: rails, rails engine
+categories: rails
 ---
 
 这片文章的核心是在同类项目中快速重用一个小型的项目文件，包括view，controller，model等等，同时也可以很容易的去重载它们。在part 2中，我会尝试提供一种helper的重用机制，另外会描述删除engine的namspace，也就是说不再使用`Hr::`。
