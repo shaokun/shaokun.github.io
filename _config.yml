@@ -1,3 +1,12 @@
-name: Shaokun Wu's Tech Blog
+name: Shaokun Wu's Dev Blog
+description: Blogging about ruby, rails, javascripts and Objective-C
+meta_description: "Shaokun Wu's Dev Blog, Blogging about ruby, rails, javascripts and Objective-C"
+
 markdown: redcarpet
 pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'shaokun.github.io'
+author:         'Shaokun Wu'
