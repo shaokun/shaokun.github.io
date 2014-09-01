@@ -3,7 +3,7 @@ layout: post
 title:  "阿里云笔记(1)"
 cover:  cover.jpg
 date:   2014-05-18 16:25:00
-categories: hosting, vps, aliyun
+categories: hosting vps aliyun
 ---
 
 最近使用阿里云，发现有些需要注意的地方：
